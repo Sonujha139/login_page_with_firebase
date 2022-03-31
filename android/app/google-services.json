@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34464348271",
+    "project_id": "fir-kart-389b7",
+    "storage_bucket": "fir-kart-389b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34464348271:android:3f19041aac036915b1b59a",
+        "android_client_info": {
+          "package_name": "com.example.s_kart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34464348271-95qgc81moneang553f3ntbk81ag4amag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwwna7xiLVZeVaYMWZomyOh_Kz-t8hUGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34464348271-95qgc81moneang553f3ntbk81ag4amag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
